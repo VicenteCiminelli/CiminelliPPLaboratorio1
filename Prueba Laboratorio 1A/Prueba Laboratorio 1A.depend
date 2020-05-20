@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1589974358 source:c:\users\jugad\desktop\utn\prueba laboratorio 1a\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"notebook.h"
+	"utn.h"
+
+1589972792 c:\users\jugad\desktop\utn\prueba laboratorio 1a\menu.h
+	"notebook.h"
+	"utn.h"
+
+1589974426 c:\users\jugad\desktop\utn\prueba laboratorio 1a\notebook.h
+
+1589972913 source:c:\users\jugad\desktop\utn\prueba laboratorio 1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"menu.h"
+	"utn.h"
+
+1589973747 source:c:\users\jugad\desktop\utn\prueba laboratorio 1a\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"menu.h"
+	"utn.h"
+
+1589972312 c:\users\jugad\desktop\utn\prueba laboratorio 1a\utn.h
+
+1589972948 source:c:\users\jugad\desktop\utn\prueba laboratorio 1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
